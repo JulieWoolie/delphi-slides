@@ -1,0 +1,19 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1>5. Kokkuvõtte - Edasiarendus</h1>
+    
+    <h2>• Flexbox paigutus</h2>
+
+    <h2 style="margin-top: 5px;">• Skriptimine</h2>
+    <h2 style="margin-left: 13px;">• JavaScript</h2>
+    <h2 style="margin-left: 13px;">• Lua</h2>
+
+    <h2 style="margin-top: 5px;">• Devtools, ehk Inspect Element</h2>
+  </body>
+</delphi>
