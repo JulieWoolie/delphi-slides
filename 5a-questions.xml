@@ -1,0 +1,14 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1 style="font-size: 400%; margin-top: 30vh;" class="title">
+      <span>Retsensendi</span>
+      <span>Küsimused</span>
+    </h1>
+  </body>
+</delphi>
