@@ -1,0 +1,63 @@
+h1 {
+  font-size: 250%;
+  width: 100%;
+
+  margin-top: 5px;
+  margin-bottom: 7.5px;
+}
+
+h2 {
+  font-size: 200%;
+}
+
+.bold {
+  bold: true;
+}
+
+.mt {
+  margin-top: 25px;
+}
+
+.title span {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+* {
+  text-shadow: true;
+}
+
+body > * {
+  margin-inline-start: 5px;
+  margin-left: 5px;
+}
+
+.largetooltip {
+  $value: 1.5px;
+  $fontsize: 175%;
+
+  border: $value;
+  outline: $value;
+  padding: $value;
+  
+  font-size: $fontsize;
+
+  * {
+    font-size: $fontsize;
+  }
+}
+
+.mts {
+  margin-top: 5px;
+}
+
+link {
+  display: inline;
+  margin-inline-start: 2px;
+}
