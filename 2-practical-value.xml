@@ -1,0 +1,22 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1>2. Praktiline väärtus</h1>
+    
+    <h2>• Õppisin CSSi ja brauserite sisemisi</h2>
+    <h2 style="margin-left: 13px;">toimemehhanisme.</h2>
+
+    <h2>• Õppisin vektormatemaatikat ja vektorite</h2>
+    <h2 style="margin-left: 13px;">transformatsioone.</h2>
+
+    <h2>• Sain töödata projekti peal mis mulle</h2>
+    <h2 style="margin-left: 13px;">palju huvi pakkus.</h2>
+
+    <h2>• Õppisin suurte projektide haldamist.</h2>
+  </body>
+</delphi>
