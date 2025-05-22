@@ -1,0 +1,19 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1 style="margin-left: unset;" class="mt title">
+      <span>Süsteem interaktiivsete</span>
+      <span>menüüde loomiseks, XML ja CSS-iga</span>
+      <span>mida näidatakse ja kasutatakse</span>
+      <span>Minecrafti mängu sees.</span>
+    </h1>
+
+    <h1 class="center" style="color: gray; margin-top: 15px; width:auto;">Andero Mägi, TARge23</h1>
+    <h1 class="center" style="color: gray; width:auto; margin-top: 2px;">Ingvar Derešivski</h1>
+  </body>
+</delphi>
