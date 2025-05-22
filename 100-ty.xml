@@ -1,0 +1,18 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1 style="margin-left: unset; font-size: 400%; margin-top: 20vh;" class="center title">
+      <span>Aitäh</span>
+      <span>kuulamast!</span>
+    </h1>
+
+    <item style="width: 50px; height: 50px; display: block;" class="center">
+      {"id": "minecraft:diamond"}
+    </item>
+  </body>
+</delphi>
