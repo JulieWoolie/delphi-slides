@@ -1,0 +1,23 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1>6. Retsensendi Küsimused (1/2)</h1>
+    
+    <h2>• Kellele see projekt tehtud on?</h2>
+
+    <h2 class="mts">• Mis muutis paigutuse stabiliseerimise kõige</h2>
+    <h2 style="margin-left: 13px;">raskemaks?</h2>
+
+    <h2 class="mts">• Kas plugin on kuskil saadaval ka?</h2>
+    
+    <h2 class="mts">• Kas pluginat jääb arendaja ka tulevikus</h2>
+    <h2 style="margin-left: 13px;">tulevaste minecrafti ja bukkit versioonide</h2>
+    <h2 style="margin-left: 13px;">jaoks haldama, või tehti arendustöö ainult</h2>
+    <h2 style="margin-left: 13px;">hetkelise isikliku huvi rahuldamiseks?</h2>
+  </body>
+</delphi>
