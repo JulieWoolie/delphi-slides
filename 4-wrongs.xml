@@ -1,0 +1,17 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1>
+      <span>4. Kokkuvõtte - Mida oleks saanud</span>
+      <span>paremini teha?</span>
+    </h1>
+    
+    <h2>• CSS Objektmudel</h2>
+    <h2 class="mts">• Automaatne reavahetus</h2>
+  </body>
+</delphi>
