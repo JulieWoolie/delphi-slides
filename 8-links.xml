@@ -1,0 +1,17 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1>8. Lingid</h1>
+
+    <h2 class="mts">• <link>github.com/arcadiusmc/delphi</link></h2>
+    <h2 class="mts">• <link>dev.arcadiusmc.net/menus</link></h2>
+    <h2 class="mts">• <link>juliewoolie.com/delphi</link></h2>
+    <h2 class="mts">• <link>hangar.papermc.io/juliewoolie/delphi</link></h2>
+    <h2 class="mts">• <link>github.com/juliewoolie/delphi-slides</link></h2>
+  </body>
+</delphi>
