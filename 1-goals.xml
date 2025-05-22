@@ -1,0 +1,17 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1>1. Eesmärgid</h1>
+    
+    <h2>• Menüüd, mida mängijad saavad kasutada.</h2>
+    <h2>• API loomine, mida teistel arendajatel on</h2>
+    <h2 style="margin-left: 13px;">lihtne kasutada.</h2>
+    <h2>• Veebi renderdamise ja paigutusmeetodite</h2>
+    <h2 style="margin-left: 13px;">emuleerimine.</h2>
+  </body>
+</delphi>
