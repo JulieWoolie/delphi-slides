@@ -1,0 +1,20 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1>7. Retsensendi Küsimused (2/2)</h1>
+
+    <h2>• Kas minecraftis on selline kompleksne</h2>
+    <h2 style="margin-left: 13px;">lehekuvamisviis üldse vajalik, kui</h2>
+    <h2 style="margin-left: 13px;">samu/sarnaseid probleeme annab</h2>
+    <h2 style="margin-left: 13px;">lahendada ka muude lahendustega nagu</h2>
+    <h2 style="margin-left: 13px;">minecrafti sisseehitatud</h2>
+    <h2 style="margin-left: 13px;">commandblockid-commandid või sarnase</h2>
+    <h2 style="margin-left: 13px;">eesmärgiga bukkiti pluginad nagu</h2>
+    <h2 style="margin-left: 13px;">SignBoard, Command Sign jmt?</h2>
+  </body>
+</delphi>
