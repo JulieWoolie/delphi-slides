@@ -1,0 +1,24 @@
+<delphi>
+  <head>
+    <option name="screen-width" value="6"/>
+    <option name="screen-height" value="4"/>
+    <style src="./style.scss"/>
+  </head>
+
+  <body>
+    <h1>3. Kokkuvõtte - Mis läks hästi?</h1>
+    
+    <h2>• Flow paigutus</h2>
+    <h2 style="margin-top: 5px;">• Renderdaja</h2>
+    <h2 style="margin-top: 5px;">• &lt;item&gt; elemendid</h2>
+    
+    <item class="mts" style="width: 32px; height: 32px; margin-left: 15px; display: block;">{"id":"minecraft:diamond_sword"}</item>
+    <item-tooltip style="margin-left: 28px; margin-top: -10px;" class="largetooltip">
+      <item-tooltip-name>Item tooltip</item-tooltip-name>
+      <item-tooltip-line></item-tooltip-line>
+      <item-tooltip-line><gray>Enchantment</gray></item-tooltip-line>
+      <item-tooltip-line><gray>Enchantment II</gray></item-tooltip-line>
+      <item-tooltip-line><gray>Enchantment IV</gray></item-tooltip-line>
+    </item-tooltip>
+  </body>
+</delphi>
